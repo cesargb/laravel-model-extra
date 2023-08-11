@@ -1,8 +1,8 @@
 <?php
 
-namespace Descom\Skeleton\Tests\Feature;
+namespace Cesargb\ModelExtra\Tests\Feature;
 
-use Descom\Skeleton\Tests\TestCase;
+use Cesargb\ModelExtra\Tests\TestCase;
 
 class ExampleTest extends TestCase
 {
