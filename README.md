@@ -4,5 +4,5 @@ WIP
 
 ## TODO
 
-- [] Model discovery
-- [] Model show info
+- [ ] Model discovery
+- [ ] Model show info
