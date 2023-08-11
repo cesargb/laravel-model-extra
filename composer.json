@@ -1,11 +1,11 @@
 {
-    "name": "descom/model_extra",
-    "description": "Template to generate a Laravel Package",
+    "name": "cesargb/model-extra",
+    "description": "wip",
     "license": "MIT",
     "authors": [
         {
-            "name": "Cesargb Support",
-            "email": "soporte@descom.es",
+            "name": "Cesar Garcia",
+            "email": "cesargb@gmail.com",
             "role": "Developer"
         }
     ],
@@ -22,8 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cesargb\\ModelExtra\\": "src",
-            "Cesargb\\ModelExtra\\Database\\Factories\\": "database/factories"
+            "Cesargb\\ModelExtra\\": "src"
         }
     },
     "autoload-dev": {
